@@ -44,10 +44,24 @@
 <!--Intro end-->
 
 <!--- stats (start) -->
- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidullah-se&hide_border=false" /> 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ubaidullah-se&show_icons=true&count_private=true" />
-<!--- stats (end) -->
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidullah-se&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ubaidullah-se&show_icons=true&count_private=true" />
+
+</td>
+</tr>
+</table>
+
+<!--- stats (end) -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -58,7 +72,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-
 
   <img src="https://skillicons.dev/icons?i=python,nodejs,js,ts,html,css,c,cpp,sass,tailwind,bootstrap,nest,express,react,angular,next,redux,apollo,graphql,jest,django,fastapi,flask,selenium,sequelize,prisma,mysql,postgres,mongo,sqlite,elasticsearch,redis,kafka,rabbitmq,aws,gcp,netlify,vercel,docker,jenkins,githubactions,git,github,gitlab,bitbucket,ubuntu,windows,apple,powershell,figma,electron,vscode,vite,npm,yarn,postman,pycharm,remix,discord,gmail,notion,nginx,linux,md,kubernetes,babel,bash&perline=14" />
 
