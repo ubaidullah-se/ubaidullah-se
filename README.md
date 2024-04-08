@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://github.com/ubaidullah-se/profile/blob/main/images/shining-seprator.gif">
+<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/shining-seprator.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -17,7 +17,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/ubaidullah-se/profile/blob/main/images/grid-snake.svg"
+  <img  src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -75,12 +75,12 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/ubaidullah-se/" target="blank"><img align="center" src="https://github.com/ubaidullah-se/profile/blob/main/images/linkedin.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/ubaidullah.se/" target="blank"><img align="center" src="https://github.com/ubaidullah-se/profile/blob/main/images/instagram.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://ubaidullah-se.hashnode.dev/" target="blank"><img align="center" src="https://github.com/ubaidullah-se/profile/blob/main/images/blog.png" alt="hasnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/ubaidullah.se" target="blank"><img align="center" src="https://github.com/ubaidullah-se/profile/blob/main/images/discord.png" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ubaidullah-se/" target="blank"><img align="center" src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/linkedin.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/ubaidullah.se/" target="blank"><img align="center" src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/instagram.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://ubaidullah-se.hashnode.dev/" target="blank"><img align="center" src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/blog.png" alt="hasnode" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/ubaidullah.se" target="blank"><img align="center" src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/discord.png" alt="discord" height="50" width="50" /></a>
   
 </p>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://github.com/ubaidullah-se/profile/blob/main/images/shining-seprator.gif">
+<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/shining-seprator.gif">
