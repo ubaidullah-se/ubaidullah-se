@@ -30,7 +30,7 @@
 
 <!--Intro start-->
 
-- 🔭 Love to code in **NodeJS, TypeScript, Python**
+- 🔭 Love to code in **JavaScript/TypeScript** and **Python**
 
 - ☁️ I've keen interest in Software Architecture & Design.
 
