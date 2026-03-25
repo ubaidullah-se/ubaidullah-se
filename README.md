@@ -1,99 +1,59 @@
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider (gradient)-->
 <img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/shining-seprator.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Muhammad Ubaidullah</h1></summary>
-  </ul>
-</div>
+# Hi there, I'm Ubaid 👋
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=ubaidullah-se&label=Profile%20Views&color=6&icon=3&pretty=true)](https://visitcount.itsvg.in)
-  
-</div>
+📍 **Calgary, AB, Canada**
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+I'm a **Senior Software Engineer & Team Lead** passionate about building **scalable web and mobile applications**, **AI-powered workflows**, and **innovative tech solutions**.
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Letting the inner creativity shine</h2></summary>
-  </ul>
-</div>
+## Contact Information
 
-<!--Intro start-->
+- **Phone:** +1 (825) 962-0424
+- **Email:** [ubaidmian1234@gmail.com](mailto:ubaidmian1234@gmail.com)
+- **Discord:** [@discord/ubaidullah.se](https://discordapp.com/users/ubaidullah.se)
+- **LinkedIn:** [@linkedin/ubaidullah-se](https://www.linkedin.com/in/ubaidullah-se)
 
-- 🔭 Love to code in **JavaScript/TypeScript** and **Python**
+## About Me
 
-- ☁️ I've keen interest in Software Architecture & Design.
+- 🔭 I’m a **Senior Software Engineer & Team Lead** with 5+ years of experience building web & mobile applications.
+- 💻 Love coding in **JavaScript/TypeScript** and **Python**.
+- ☁️ Focused on **Cloud, Microservices, DevOps, and Software Architecture**.
+- 🤖 Passionate about **AI, LLM integration, and automation workflows**.
+- 📱 Experienced in **React, Next.js, Node.js, NestJS, React Native, Expo**.
+- 📍 Based in **Calgary, AB, Canada**
 
-- 📝 Going to start a blog on [Hashnode](https://ubaidullah-se.hashnode.dev/)
+## Tech Stack
 
-- 💬 Ask me about **AWS, React, React Native, NodeJS, TypeScript, Python**
+| Category                     | Technologies                                             |
+| ---------------------------- | -------------------------------------------------------- |
+| **Languages**                | JavaScript (Node.js), TypeScript, Python, SQL            |
+| **Frontend**                 | React, React Native, Angular, Next.js                    |
+| **Backend**                  | NestJS, ExpressJS, Django, FastAPI, REST APIs            |
+| **Databases**                | PostgreSQL, MongoDB, MySQL, Redis, Solr, Elastic Search  |
+| **Vector Databases**         | Pinecone, pgvector                                       |
+| **Cloud & DevOps**           | AWS, GCP, OCI, Kubernetes, Docker, GitHub Actions, CI/CD |
+| **Messaging & Streaming**    | gRPC, Kafka, RabbitMQ                                    |
+| **Architecture & Practices** | Microservices, API Design, Agile, SOLID, TDD             |
 
-- 📫 Feel free to reach me out **ubaidmian1234@gmail.com**
+## Project Highlights 🚀
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord – [ubaidullah.se](https://discordapp.com/users/ubaidullah.se) my username!
-<!--Intro end-->
+**CyberShorts** – Cybersecurity news platform with mobile & web apps.  
+<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/cybershorts.png" width="70%" style="border-radius: 12px; margin-top: 12px;" />
 
-<!--- stats (start) -->
+**Mahu** – Privacy-first couples journaling app with offline-first storage and reminders.  
+<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/mahu.png" width="70%" style="border-radius: 12px; margin-top: 12px;" />
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidullah-se&hide_border=false" /> 
-</td>
+**MRT POS** – Point-of-sale software with invoice, stock, and analytics management.  
+<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/mrtpos.png" width="70%" style="border-radius: 12px; margin-top: 12px;" />
 
-<td width="50%" align="center">
+**Komo** – Multi-vendor food and grocery delivery platform connecting customers, sellers, and riders with real-time order tracking.  
+<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/komo.png" width="70%" style="border-radius: 12px; margin-top: 12px;" />
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ubaidullah-se&show_icons=true&count_private=true" />
+![Snake GIF](https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/grid-snake.svg)
 
-</td>
-</tr>
-</table>
+## GitHub Streak Stats
 
-<!--- stats (end) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubaidullah-se&hide_border=false)
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I Majorly Work On👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-
-  <img src="https://skillicons.dev/icons?i=python,nodejs,js,ts,html,css,c,cpp,sass,tailwind,bootstrap,nest,express,react,angular,next,redux,apollo,graphql,jest,django,fastapi,flask,selenium,sequelize,prisma,mysql,postgres,mongo,sqlite,elasticsearch,redis,kafka,rabbitmq,aws,gcp,netlify,vercel,docker,jenkins,githubactions,git,github,gitlab,bitbucket,ubuntu,windows,apple,powershell,figma,electron,vscode,vite,npm,yarn,postman,pycharm,remix,discord,gmail,notion,nginx,linux,md,kubernetes,babel,bash&perline=14" />
-
-  </a>
-</p>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/ubaidullah-se/" target="blank"><img align="center" src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/linkedin.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/ubaidullah.se/" target="blank"><img align="center" src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/instagram.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://ubaidullah-se.hashnode.dev/" target="blank"><img align="center" src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/blog.png" alt="hasnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/ubaidullah.se" target="blank"><img align="center" src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/discord.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-<!--horizontal divider(gradiant)-->
 <img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/shining-seprator.gif">
