@@ -38,17 +38,41 @@ I'm a **Senior Software Engineer & Team Lead** passionate about building **scala
 
 ## Project Highlights 🚀
 
-**CyberShorts** – Cybersecurity news platform with mobile & web apps.  
-<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/cybershorts.png" width="70%" style="border-radius: 12px; margin-top: 12px;" />
+<table>
+<tr>
+<td width="50%">
 
-**Mahu** – Privacy-first couples journaling app with offline-first storage and reminders.  
-<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/mahu.png" width="70%" style="border-radius: 12px; margin-top: 12px;" />
+**CyberShorts**  
+Cybersecurity news platform with mobile & web apps.  
+<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/cybershorts.png" width="100%" />
 
-**MRT POS** – Point-of-sale software with invoice, stock, and analytics management.  
-<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/mrtpos.png" width="70%" style="border-radius: 12px; margin-top: 12px;" />
+</td>
+<td width="50%">
 
-**Komo** – Multi-vendor food and grocery delivery platform connecting customers, sellers, and riders with real-time order tracking.  
-<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/komo.png" width="70%" style="border-radius: 12px; margin-top: 12px;" />
+**Mahu**  
+Privacy-first couples journaling app with offline-first storage and reminders.  
+<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/mahu.png" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+**MRT POS**  
+Point-of-sale software with invoice, stock, and analytics management.  
+<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/mrtpos.png" width="100%" />
+
+</td>
+<td width="50%">
+
+**Komo**  
+Multi-vendor food and grocery delivery platform connecting customers, sellers, and riders with real-time order tracking.  
+<img src="https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/komo.png" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ![Snake GIF](https://github.com/ubaidullah-se/ubaidullah-se/blob/main/images/grid-snake.svg)
 
