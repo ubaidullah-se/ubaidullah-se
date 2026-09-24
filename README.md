@@ -5,7 +5,7 @@
 
 📍 **Calgary, AB, Canada**
 
-I'm a **Senior Software Engineer & Team Lead** passionate about building **scalable web and mobile applications**, **AI-powered workflows**, and **innovative tech solutions**.
+I'm a **Senior Full Stack AI Engineer & Team Lead** passionate about building **scalable web and mobile applications**, **AI-powered workflows**, and **innovative tech solutions**.
 
 ## Contact Information
 
@@ -16,7 +16,7 @@ I'm a **Senior Software Engineer & Team Lead** passionate about building **scala
 
 ## About Me
 
-- 🔭 I’m a **Senior Software Engineer & Team Lead** with 5+ years of experience building web & mobile applications.
+- 🔭 I’m a **Senior Full Stack AI Engineer & Team Lead** with 6+ years of experience building web & mobile applications.
 - 💻 Love coding in **JavaScript/TypeScript** and **Python**.
 - ☁️ Focused on **Cloud, Microservices, DevOps, and Software Architecture**.
 - 🤖 Passionate about **AI, LLM integration, and automation workflows**.
@@ -30,11 +30,11 @@ I'm a **Senior Software Engineer & Team Lead** passionate about building **scala
 | **Languages**                | JavaScript (Node.js), TypeScript, Python, SQL            |
 | **Frontend**                 | React, React Native, Angular, Next.js                    |
 | **Backend**                  | NestJS, ExpressJS, Django, FastAPI, REST APIs            |
-| **Databases**                | PostgreSQL, MongoDB, MySQL, Redis, Solr, Elastic Search  |
-| **Vector Databases**         | Pinecone, pgvector                                       |
-| **Cloud & DevOps**           | AWS, GCP, OCI, Kubernetes, Docker, GitHub Actions, CI/CD |
+| **Databases**                | PostgreSQL, MongoDB, MySQL, Redis, Elastic Search, Solr  |
+| **AI / LLM**         | OpenAI API, LangChain, LLM fine-tuning, RAG pipelines, AI agents                                      |
+| **Cloud & DevOps**           | AWS (Lambda, EC2, RDS, S3, ECS & more), GCP, OCI, Kubernetes, Docker, GitHub Actions, CI/CD |
 | **Messaging & Streaming**    | gRPC, Kafka, RabbitMQ                                    |
-| **Architecture & Practices** | Microservices, API Design, Agile, SOLID, TDD             |
+| **Architecture & Practices** | Microservices, Distributed systems, API Design, System Design, SOLID, TDD, Agile             |
 
 ## Project Highlights 🚀
 
